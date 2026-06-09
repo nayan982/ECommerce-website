@@ -57,7 +57,7 @@ electronic-ecommerce-website/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/username/electronic-ecommerce-website.git
+git clone https://github.com/nayan982/electronic-ecommerce-website.git
 
 cd electronic-ecommerce-website
 ```
